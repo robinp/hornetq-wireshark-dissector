@@ -1,0 +1,5 @@
+Experimental HornetQ dissector written using Wireshark's Lua dissector support.
+
+This is ongoing work, not all messages might be listed or decoded correctly. Usually a ! mark will show that the decoding of that particular message is incomplete.
+
+All contributions are welcome!
