@@ -1,4 +1,4 @@
--- HornetQ 2.2.5 dissector
+-- HornetQ 2.2.13 dissector
 HQPROTO = Proto("hornetq","HornetQ Protocol")
 
 local tPing = 10
