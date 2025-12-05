@@ -1,3 +1,5 @@
+**[Maintainance of this dissector moved to MaximDzhezhelo/hornetq-wireshark-dissector](https://github.com/MaximDzhezhelo/hornetq-wireshark-dissector/tree/extended) (as of commit on extended branch).**
+
 Experimental HornetQ dissector written using Wireshark's Lua dissector support.
 
 This is ongoing work, not all messages might be listed or decoded correctly. Usually a ! mark will show that the decoding of that particular message is incomplete.
